@@ -105,7 +105,7 @@ Transfer is a public function that transfer token from sender account to recieve
 The goal of this project is to give users a practical understanding of many of the subjects taught in the ETH_Intermidiate Course on Solidity. This software provides real-world examples and implementations to enhance learning and demonstrate how crucial Solidity concepts function.
 
 ## Author
-adityashekhar
+harshitkumarpandey
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details
